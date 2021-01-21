@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish IMAC</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-conio-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-convert-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-environment-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-filesystem-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-heap-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-locale-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-math-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-multibyte-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-private-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-process-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-runtime-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-stdio-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-string-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-time-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/api-ms-win-crt-utility-l1-1-0.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/concrt140.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/msvcp140.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/ucrtbase.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/vcruntime140.dll">
+      <publishTime>06/22/2020 15:30:58</publishTime>
+    </File>
+    <File Include="App_Data/wkhtmltopdf/wkhtmltopdf.exe">
+      <publishTime>06/22/2020 15:30:57</publishTime>
+    </File>
+    <File Include="bin/ApiTemplate.dll">
+      <publishTime>06/29/2020 10:21:59</publishTime>
+    </File>
+    <File Include="bin/ApiTemplate.pdb">
+      <publishTime>06/29/2020 10:21:59</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>08/09/2016 13:56:12</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.WebApi.dll">
+      <publishTime>09/05/2019 19:41:22</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.WebApi.pdb">
+      <publishTime>09/05/2019 19:41:22</publishTime>
+    </File>
+    <File Include="bin/AutofacSerilogIntegration.dll">
+      <publishTime>03/24/2017 00:41:30</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>09/14/2019 17:01:18</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>09/14/2019 17:01:36</publishTime>
+    </File>
+    <File Include="bin/ITAssetsManagement.dll">
+      <publishTime>06/29/2020 09:45:05</publishTime>
+    </File>
+    <File Include="bin/ITAssetsManagement.dll.config">
+      <publishTime>01/10/2020 09:39:45</publishTime>
+    </File>
+    <File Include="bin/ITAssetsManagement.pdb">
+      <publishTime>06/29/2020 09:45:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>04/24/2018 12:47:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>04/24/2018 12:47:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.Auth.dll">
+      <publishTime>12/19/2014 18:02:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.Auth.pdb">
+      <publishTime>12/19/2014 18:02:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.dll">
+      <publishTime>12/19/2014 18:02:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Exchange.WebServices.pdb">
+      <publishTime>12/19/2014 18:02:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/05/2018 19:35:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.pdb">
+      <publishTime>10/05/2018 19:25:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/18/2019 23:40:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/18/2019 23:44:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>11/12/2019 18:48:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>11/12/2019 18:46:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>01/18/2019 20:50:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/13/2015 13:16:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>11/12/2019 18:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Jwt.dll">
+      <publishTime>11/12/2019 18:46:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>11/12/2019 18:45:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/18/2018 09:44:54</publishTime>
+    </File>
+    <File Include="bin/NReco.PdfGenerator.dll">
+      <publishTime>03/30/2017 12:40:04</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 12:19:34</publishTime>
+    </File>
+    <File Include="bin/Quartz.dll">
+      <publishTime>10/07/2018 12:27:38</publishTime>
+    </File>
+    <File Include="bin/Quartz.pdb">
+      <publishTime>10/07/2018 12:27:38</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/Serilog.dll">
+      <publishTime>05/18/2018 01:46:40</publishTime>
+    </File>
+    <File Include="bin/Serilog.pdb">
+      <publishTime>05/18/2018 01:46:40</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.dll">
+      <publishTime>10/17/2019 05:25:34</publishTime>
+    </File>
+    <File Include="bin/Serilog.Sinks.File.pdb">
+      <publishTime>10/17/2019 05:25:34</publishTime>
+    </File>
+    <File Include="bin/SerilogWeb.Classic.dll">
+      <publishTime>02/28/2019 21:20:52</publishTime>
+    </File>
+    <File Include="bin/SerilogWeb.Classic.WebApi.dll">
+      <publishTime>02/28/2019 21:38:26</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/05/2018 19:34:30</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.pdb">
+      <publishTime>10/05/2018 19:25:52</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>11/28/2018 13:00:36</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>10/01/2013 20:54:22</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/05/2011 15:45:38</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>11/28/2018 13:01:00</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>11/28/2018 13:01:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>11/28/2018 13:02:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/10/2020 09:29:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/29/2020 09:45:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\ITAssetsManagement.dll.config
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\ITAssetsManagement.dll
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\ITAssetsManagement.pdb
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\EntityFramework.dll
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\EntityFramework.xml
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\obj\Release\ITAssetsManagement.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\obj\Release\ITAssetsManagement.csproj.CopyComplete
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\obj\Release\ITAssetsManagement.dll
+C:\Users\HP\Documents\Lonsum git\LonsumIMacApi\IMacApi\UserManager\obj\Release\ITAssetsManagement.pdb
